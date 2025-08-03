@@ -1,4 +1,4 @@
-# Ayenew Adugnaw Simegn - Professional Portfolio
+## Ayenew Adugnaw Simegn - Professional Portfolio
 
 This is the professional portfolio website of Ayenew Adugnaw Simegn, showcasing his skills, experience, and projects as an IT Security Assessment Specialist and Technical Support Officer.
 
